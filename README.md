@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ASP.NET Core based projects.
 - 👀 I’m interested in building APIs for E2E Applications using Dotnet and C#, design patterns, and architectural patterns
-- 💞️ I’m familiar with both backend and fronted technologies.
+- I’m familiar with both backend and fronted technologies.
 - 🌱 Currently learning React, Node, Express, and Shell Scripting.
 - 📫 How to reach me shakerkamal@outlook.com
 <!-- - ⚡ Fun fact: ... -->
