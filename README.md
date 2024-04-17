@@ -8,8 +8,8 @@
 - 🌱 Currently learning Angular.
 - 📫 How to reach me shakerkamal@outlook.com
 <!-- - ⚡ Fun fact: ... -->
-<!-- # 📊 GitHub Stats:
- [![GitHub Streak](https://streak-stats.demolab.com?user=shakerkamal&theme=tokyonight&border_radius=15&card_width=1000)](https://git.io/streak-stats)  -->
+# 📊 GitHub Stats:
+ [![GitHub Streak](https://streak-stats.demolab.com?user=shakerkamal&theme=tokyonight&border_radius=15&card_width=1000)](https://git.io/streak-stats)  
 
 
 
