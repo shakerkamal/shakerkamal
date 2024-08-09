@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer</h3>
 
 
-- 🔭 I’m currently working on ASP.NET Core based projects.
+- 🔭 I’m currently working as a Software Developer Intern in NXP Semiconductors.
 - 👀 I’m interested in building APIs for E2E Applications using Dotnet and C#, design patterns, and architectural patterns
 - I’m familiar with both backend and fronted technologies.
 - 🌱 Currently learning Angular.
