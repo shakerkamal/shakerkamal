@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer</h3>
 
 
-- 🔭 I’m currently working as a Student Intern Technical at NXP Semiconductors.
+- 🔭 I’m currently working as a Working Student at NXP Semiconductors.
 - 👀 I’m interested in building APIs for E2E Applications using Dotnet and C#, design patterns, and architectural patterns
 - I’m familiar with both backend and fronted technologies.
 - 🌱 Currently learning Angular.
