@@ -6,6 +6,9 @@
 - 👀 I’m interested in building APIs for E2E Applications using Dotnet and C#, design patterns, and architectural patterns
 - I’m familiar with both backend and fronted technologies.
 - 🌱 Currently learning Angular.
+- Check out my portfolio website
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fshakerkamal.com%2F)
+
 <!--- 📫 How to reach me shakerkamal@outlook.com
 <!-- - ⚡ Fun fact: ... -->
 <!--# 📊 GitHub Stats:
@@ -14,9 +17,6 @@
 
 
 ## 🌐 Socials:
-- Check out my portfolio website here
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fshakerkamal.com%2F)
-
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaker-ibna-kamal) -->
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11702309)
 [![](https://visitcount.itsvg.in/api?id=imamulahsan&icon=0&color=0)](https://visitcount.itsvg.in)
