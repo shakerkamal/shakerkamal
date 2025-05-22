@@ -15,7 +15,7 @@
 
 ## 🌐 Socials:
 - Check out my portfolio website here
-[![Website]()](https://shakerkamal.com)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fshakerkamal.com%2F)
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaker-ibna-kamal) -->
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11702309)
