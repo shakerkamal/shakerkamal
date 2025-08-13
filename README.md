@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working as a Working Student at NXP Semiconductors.
-- 👀 I’m interested in building APIs for E2E Applications using Dotnet and C#, design patterns, and architectural patterns
+- 👀 I’m interested in building APIs for E2E Applications using Dotnet and C#, design patterns, and architectural patterns.
 - I’m familiar with both backend and fronted technologies.
 - 🌱 Currently learning Angular.
 - Check out my portfolio website
