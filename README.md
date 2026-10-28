@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi , I'm Md Shaker Ibna Kamal</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 
-- 🔭 I’m currently doing my Masters' thesis in **Integrating LLM as a navigation agent in Robotic Navigation** at **TU Chemnitz NeuroRobotics Department**.
+- 🔭 I’ve finished my Masters' from **TU Chemnitz** with my Thesis in **Integrating LLM as a navigation agent in Robotic Navigation**.
 - 👀 I’m interested in building APIs for E2E Applications using Dotnet and C#, design patterns, and architectural patterns.
 - I’m familiar with both backend and fronted technologies.
-- 🌱 Currently learning Angular.
+- 🌱 Currently learning Agentic Engineering and Harness.
 - Check out my portfolio website
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fshakerkamal.com%2F)
 
